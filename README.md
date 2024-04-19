@@ -22,6 +22,7 @@ The development process is expected to look a little like this:
 
 ## How to Build
 You can compile this project on Windows using make and the cl65 compiler (get it here: https://cc65.github.io/).
+The version of C used in this project is GNU89.
 
 Once the /bin directory of the cc65 has been added to path, you can compile with
 ```bash
